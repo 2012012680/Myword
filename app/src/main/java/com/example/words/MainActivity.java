@@ -88,7 +88,6 @@ public class MainActivity extends AppCompatActivity
         }
         return super.onOptionsItemSelected(item);
     }
-
     /**
      * 更新单词列表
      */
